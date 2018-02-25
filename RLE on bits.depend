@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519499391 source:e:\c++\rle on bits\main.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<stdlib.h>
+
